@@ -10,13 +10,13 @@
 
 	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional enterpreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+		"Currently working on web development involving JavaScript, jQuery, React and UI/UX using new and advanced techniques. 
+		"I am also interested in competitive programming and regularly practice on getting better at it.",
+		"If you can’t find me, it’s because I’m probably gaming, watching football or studying for an exam",
+		"I love to write and contribute to football blogs, cycle, or go off on a hike :)"
 	],
 
-	"WorkContent": [
+	/**"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
 	],
 	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
@@ -51,18 +51,18 @@
 			"name": "Gatsby Personal Webpage",
 			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
 		}
-	],
+	],*/
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	/*"CV": "https://www.visualcv.com/aditya-ketkar/",*/
+	"Resume": "https://drive.google.com/file/d/1Pzd21mlvH7JgUcuKimkdQ7yMuilBKFNU/view?usp=sharing",
 
 	"emailid": "mailto:manasmhasakar2001@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/manas-mhasakar-abb123176/",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	/**"wordpress": "https://technoshblog.wordpress.com/",*/
+	"facebook": "https://www.facebook.com/manas.mhasakar",
+	"github": "https://github.com/hazard4king",
+	"instagram": "https://www.instagram.com/manasm_cfc/",
+	"twitter": "https://twitter.com/MhasakarManas"
+	/**"medium": "https://medium.com/@ketkaraditya"*/
 }
