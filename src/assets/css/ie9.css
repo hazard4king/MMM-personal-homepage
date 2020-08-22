@@ -22,7 +22,7 @@
 
 	#header .content {
 		display: inline-block;
-		opacity: 0.1;
+		opacity: 1;
 	}
 
 	#header nav ul {
