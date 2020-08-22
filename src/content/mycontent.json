@@ -15,12 +15,55 @@
 		"If you can’t find me, it’s because I’m probably gaming, watching football or studying for an exam",
 		"I love to write and contribute to football blogs, cycle, or go off on a hike."
 	],
+
+	"WorkContent": [
+		"I am currently full time Software Developer Engineer at Microsoft."
+	],
+	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"InternshipsStartLine": "Previously, I have interned with :",
+	"InternShips": [{
+			"name": "Amazon India",
+			"link": "#"
+		},
+		{
+			"name": "North-Eastern Space Application Center (ISRO)",
+			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+		},
+		{
+			"name": "Computer Vision Center, Universitat  de Barcelona",
+			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+		}
+	],
+	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"Projects": [{
+			"name": "EisenList",
+			"link": "https://github.com/adityaketkar/eisenlist"
+		},
+		{
+			"name": "DelOr",
+			"link": "https://bitsdelor.wixsite.com/delor"
+		},
+		{
+			"name": "Alexa Music Companion",
+			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+		},
+		{
+			"name": "Gatsby Personal Webpage",
+			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+		}
+	],
+
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
+	"CV": "https://www.visualcv.com/aditya-ketkar/",
 	"Resume": "https://drive.google.com/file/d/1Pzd21mlvH7JgUcuKimkdQ7yMuilBKFNU/view?usp=sharing",
+
 	"emailid": "mailto:manasmhasakar2001@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/manas-mhasakar-abb123176/",
+	"wordpress": "https://technoshblog.wordpress.com/",
 	"facebook": "https://www.facebook.com/manas.mhasakar",
 	"github": "https://github.com/hazard4king",
 	"instagram": "https://www.instagram.com/manasm_cfc/",
-	"twitter": "https://twitter.com/MhasakarManas"
+	"twitter": "https://twitter.com/MhasakarManas",
+	"medium": "https://medium.com/@ketkaraditya"
+
 }
